@@ -89,3 +89,5 @@ Mapping des CSV vers les Tables
     ]
 ];
 
+version stable v1
+
