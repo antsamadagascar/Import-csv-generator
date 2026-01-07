@@ -1,0 +1,13 @@
+voiture,type voiture,date rdv,heure rdv,type service,montant,date paiement
+0398 FE,utilitaire,10/07/2024,11:00,Entretien,100000,11/07/2024
+1234 TAF,légère,10/07/2024,15:00,Réparation complexe,560000,11/07/2024
+2351 TBA,4x4,10/07/2024,13:00,Réparation standard,230000,
+9400 TCA,utilitaire,10/07/2024,10:00,Réparation standard,230000,
+0890 AC,légère,11/07/2024,08:00,Réparation complexe,560000,15/07/2024
+0975 WWA,4x4,11/07/2024,09:00,Entretien,100000,15/07/2024
+0975 WWA,4x4,11/07/2024,12:00,Réparation simple,125000,15/07/2024
+0590 TAB,légère,15/07/2024,08:00,Réparation simple,125000,
+1679 AF,utilitaire,15/07/2024,09:00,Réparation complexe,560000,
+1679 AF,utilitaire,15/07/2024,09:00,Réparation standard,230000,16/07/2024
+0590 TAB,légère,18/07/2024,16:00,Entretien,120000,
+4637 TBD,légère,18/07/2024,17:00,Réparation simple,150000,

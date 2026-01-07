@@ -1,0 +1,25 @@
+type_maison;description;surface;code_travaux;type_travaux;unité;prix_unitaire;quantite;duree_travaux
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;102;beton armée dosée à 350kg/m3;m3;573215,8;18,4;90
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;103;Armature pour Béton;kg;8500;781;90
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;105;Mur 22cm;m2;45000;150;90
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;201;maçonnerie de moellons;m3;172114,4;16;90
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;203;chape de 2cm;m3;33566,54;54;90
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;302;Peinture intérieure;m2;10060,51;145;90
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;303;Peinture extérieure;m2;13078,66;160;90
+TOKYO;2 chambres, 1 living, 1 salle de bain;128;401;chassis vitrées;m2;602000;6;90
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;101;'Travaux d''implantation';fft;152656;1;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;102;beton armée dosée à 350kg/m3;m3;573215,8;21,16;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;103;Armature pour Béton;kg;8500;820,05;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;105;Mur 22cm;m2;45000;160,5;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;201;maçonnerie de moellons;m3;172114,4;30,4;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;203;chape de 2cm;m3;33566,54;91,8;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;302;Peinture intérieure;m2;10060,51;203;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;303;Peinture extérieure;m2;13078,66;192;120
+KINSHASA;4 chambres, 1 living, 2 salles de bain, 1 garage;150;401;chassis vitrées;m2;602000;6,6;120
+LONDRES;3 chambres, 1 terrasse, 1 salle de bain;101;101;'Travaux d''implantation';fft;152656;2;75
+LONDRES;3 chambres, 1 terrasse, 1 salle de bain;101;102;beton armée dosée à 350kg/m3;m3;573215,8;22,08;75
+LONDRES;3 chambres, 1 terrasse, 1 salle de bain;101;103;Armature pour Béton;kg;8500;851,29;75
+LONDRES;3 chambres, 1 terrasse, 1 salle de bain;101;201;maçonnerie de moellons;m3;172114,4;20,8;75
+LONDRES;3 chambres, 1 terrasse, 1 salle de bain;101;203;chape de 2cm;m3;33566,54;59,4;75
+LONDRES;3 chambres, 1 terrasse, 1 salle de bain;101;303;Peinture extérieure;m2;13078,66;304;75
+LONDRES;3 chambres, 1 terrasse, 1 salle de bain;101;401;chassis vitrées;m2;602000;10,2;75
